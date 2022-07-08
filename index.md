@@ -6,9 +6,6 @@ Taking the lead on the bleeding edge of the latest software paridigms without lo
 
 Fully functional and capable in all arenas of the industry.  The legacy of early 2000's millenium transition into the new era of whats possible in science and technology.
 
-
-```Sample
-
 # Keeping the Vision
 ## Motivated to Progress
 ### Success in Goals
