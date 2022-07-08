@@ -1,32 +1,25 @@
-## Welcome to GitHub Pages
+## Singularity.exe
 
-You can use the [editor on GitHub](https://github.com/tijko/tijko.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Taking the lead on the bleeding edge of the latest software paridigms without lose scope of the underlying principles that have driven the IT industry to new levels.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-### Markdown
+Fully functional and capable in all arenas of the industry.  The legacy of early 2000's millenium transition into the new era of whats possible in science and technology.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```Sample
 
-# Header 1
-## Header 2
-### Header 3
+# Keeping the Vision
+## Motivated to Progress
+### Success in Goals
 
-- Bulleted
-- List
+- Outline
+- Strategy
 
-1. Numbered
-2. List
+1. Top Coordination
+2. Maximum Efficiency
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**tijko** and _leading-companies_ and `development` future
 
 ### Jekyll Themes
 
