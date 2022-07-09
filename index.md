@@ -1,6 +1,6 @@
 ## Singularity.exe
 
-Taking the lead on the bleeding edge of the latest software paridigms without 
+Taking the lead on the bleeding edge of the latest software paradigms without 
 loosing scope of the underlying principles that have driven the IT industry 
 to new levels.
 
